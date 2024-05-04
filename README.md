@@ -1,1 +1,1 @@
-The code and the supllemtry metrial of the algorithm will be avialabe after the accpetance of the manuscript. 
+The algorithm's code and supplementary materials will be available on this repository after the manuscript is accepted. 
