@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the MATLAB implementation of the Moth-Flame Particle Swarm Optimization (MFPSO) algorithm  Algorithm, developed for optimizing the DC motor speed of driverless four-wheel differential drive (4WD) vehicles. The algorithm is part of the research published in the Journal of Intelligent & Robotic Systems.
+This repository contains the MATLAB implementation of the Moth-Flame Particle Swarm Optimization (MFPSO) Algorithm, developed for optimizing the DC motor speed of driverless four-wheel differential drive (4WD) vehicles. The algorithm is part of the research published in the Journal of Intelligent & Robotic Systems.
 
 ## Paper Link
 
