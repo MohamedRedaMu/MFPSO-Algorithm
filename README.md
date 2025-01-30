@@ -44,7 +44,7 @@ Reda, Mohamed, Ahmed Onsy, Amira Y. Haikal, and Ali Ghanbari. 2024. "Optimizing 
 ## Code Citation
 If you adapt or use this code, please cite it as follows:
 ```
-Mohamed Reda. (2025). MATLAB implementation of the Moth-Flame Particle Swarm Optimization (MFPSO) Algorithm. Available at: [https://github.com/MohamedRedaMu/MFPSO-Algorithm]
+Mohamed Reda. (2025). MATLAB implementation of the Moth-Flame Particle Swarm Optimization (MFPSO) Algorithm. Available at: https://github.com/MohamedRedaMu/MFPSO-Algorithm
 ```
 
 
