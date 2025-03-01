@@ -17,27 +17,23 @@ function [goalReached, GlobalBest, countFE] = MFPSO_algorithm()
     Citation (Please cite the following paper paper):
         If you use this code in your research, please cite the following paper:
         %% Bibtex:
-        @article{reda2024Optimizing,
-          title = {Optimizing the Steering of Driverless Personal Mobility Pods with a Novel Differential Harris Hawks Optimization Algorithm (DHHO) and Encoder Modeling},
-          author = {Reda, Mohamed and Onsy, Ahmed and Haikal, Amira Y and Ghanbari, Ali},
-          journal = {Sensors},
-          volume = {24},
-          number = {14},
-          pages = {4650},
-          year = {2024},
-          publisher = {MDPI},
-          doi = {https://doi.org/10.3390/s24144650},
-          url = {https://www.mdpi.com/1424-8220/24/14/4650}
+        @article{reda2025motor,
+          title={Motor Speed Control of Four-wheel Differential Drive Robots Using a New Hybrid Moth-flame Particle Swarm Optimization (MFPSO) Algorithm},
+          author={Reda, Mohamed and Onsy, Ahmed and Haikal, Amira Y and Ghanbari, Ali},
+          journal={Journal of Intelligent \& Robotic Systems},
+          volume={111},
+          number={1},
+          pages={31},
+          year={2025},
+          publisher={Springer}
         }
 
-        %% AMA Style
-        Reda M, Onsy A, Haikal AY, Ghanbari A. Optimizing the Steering of Driverless Personal Mobility Pods with a Novel Differential Harris Hawks Optimization 
-        Algorithm (DHHO) and Encoder Modeling. Sensors. 2024; 24(14):4650. https://doi.org/10.3390/s24144650
+        %% APA Style
+        Reda, M., Onsy, A., Haikal, A. Y., & Ghanbari, A. (2025). Motor Speed Control of Four-wheel Differential Drive Robots Using a New Hybrid Moth-flame Particle Swarm Optimization (MFPSO) Algorithm. Journal of Intelligent & Robotic Systems, 111(1), 31.
 
     
         %% Chicago/Turabian Style
-        Reda, Mohamed, Ahmed Onsy, Amira Y. Haikal, and Ali Ghanbari. 2024. "Optimizing the Steering of Driverless Personal Mobility Pods with a Novel Differential
-        Harris Hawks Optimization Algorithm (DHHO) and Encoder Modeling" Sensors 24, no. 14: 4650. https://doi.org/10.3390/s24144650
+        Reda, Mohamed, Ahmed Onsy, Amira Y. Haikal, and Ali Ghanbari. "Motor Speed Control of Four-wheel Differential Drive Robots Using a New Hybrid Moth-flame Particle Swarm Optimization (MFPSO) Algorithm." Journal of Intelligent & Robotic Systems 111, no. 1 (2025): 31.
         
     Code citation:
         If you use this code in your research, please cite the following code as follows:
